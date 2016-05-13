@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3f699cea-4657-43bc-a165-403bc82e140c" name="bootstrap-learning2" url="http://bootcamp-coders.cnm.edu/~awilliams144/bootstrap-learning2">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" privateKey="C:\Users\Anthony\Desktop\CNM_Bootcamp\ssh-key.openssh" rootFolder="/home/awilliams144/public_html/bootstrap-learning2" accessType="SFTP" username="awilliams144" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
